@@ -1,0 +1,28 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "$type": "color",
+        "$value": "#007BFF",
+        "$description": "The primary brand color for interactive elements."
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#6C757D",
+        "$description": "The secondary brand color, often used for subtle accents."
+      }
+    },
+    "text": {
+      "default": {
+        "$type": "color",
+        "$value": "#212529",
+        "$description": "Default text color."
+      },
+      "inverted": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Text color used on dark backgrounds."
+      }
+    }
+  }
+}
