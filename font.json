@@ -1,0 +1,40 @@
+{
+  "font": {
+    "family": {
+      "base": {
+        "$value": "Arial, sans-serif",
+        "$type": "fontFamily",
+        "$description": "Base font family for the application."
+      },
+      "heading": {
+        "$value": "Georgia, serif",
+        "$type": "fontFamily",
+        "$description": "Font family for headings."
+      }
+    },
+    "size": {
+      "base": {
+        "$value": "16px",
+        "$type": "dimension",
+        "$description": "Base font size."
+      },
+      "h1": {
+        "$value": "32px",
+        "$type": "dimension",
+        "$description": "Font size for H1 headings."
+      }
+    },
+    "weight": {
+      "normal": {
+        "$value": "400",
+        "$type": "fontWeight",
+        "$description": "Normal font weight."
+      },
+      "bold": {
+        "$value": "700",
+        "$type": "fontWeight",
+        "$description": "Bold font weight."
+      }
+    }
+  }
+}
