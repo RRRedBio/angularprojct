@@ -24,5 +24,69 @@
         "$description": "Text color used on dark backgrounds."
       }
     }
+  },
+  
+  "font": {
+    "family": {
+      "base": {
+        "$value": "Arial, sans-serif",
+        "$type": "fontFamily",
+        "$description": "Base font family for the application."
+      },
+      "heading": {
+        "$value": "Georgia, serif",
+        "$type": "fontFamily",
+        "$description": "Font family for headings."
+      }
+    },
+    "size": {
+      "base": {
+        "$value": "16px",
+        "$type": "dimension",
+        "$description": "Base font size."
+      },
+      "h1": {
+        "$value": "32px",
+        "$type": "dimension",
+        "$description": "Font size for H1 headings."
+      }
+    },
+    "weight": {
+      "normal": {
+        "$value": "400",
+        "$type": "fontWeight",
+        "$description": "Normal font weight."
+      },
+      "bold": {
+        "$value": "700",
+        "$type": "fontWeight",
+        "$description": "Bold font weight."
+      }
+    }
+  },
+  
+  "spacing": {
+    "xs": {
+      "$value": "4px",
+      "$type": "dimension",
+      "$description": "Extra small spacing unit."
+    },
+    "sm": {
+      "$value": "8px",
+      "$type": "dimension",
+      "$description": "Small spacing unit."
+    },
+    "md": {
+      "$value": "16px",
+      "$type": "dimension",
+      "$description": "Medium spacing unit."
+    },
+    "lg": {
+      "$value": "24px",
+      "$type": "dimension",
+      "$description": "Large spacing unit."
+    }
   }
+
+
 }
