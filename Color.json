@@ -3,6 +3,10 @@
     "$type": "color",
     "$value": "#0C0C0C"
   },
+  "White": {
+    "$type": "color",
+    "$value": "#000000"
+  },
   "color": {
     "brand": {
       "primary": {
