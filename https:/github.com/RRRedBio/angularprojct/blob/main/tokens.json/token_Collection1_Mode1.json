@@ -1,0 +1,10 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Secondary": {
+    "$type": "color",
+    "$value": "#be8a8a"
+  }
+}
