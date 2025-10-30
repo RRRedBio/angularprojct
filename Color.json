@@ -1,4 +1,8 @@
 {
+  "Black": {
+    "$type": "color",
+    "$value": "#0C0C0C"
+  },
   "color": {
     "brand": {
       "primary": {
